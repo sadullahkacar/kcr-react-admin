@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kcr-react-admin/static/css/main.ddee814f.css",
+    "main.js": "/kcr-react-admin/static/js/main.77a89182.js",
+    "index.html": "/kcr-react-admin/index.html",
+    "main.ddee814f.css.map": "/kcr-react-admin/static/css/main.ddee814f.css.map",
+    "main.77a89182.js.map": "/kcr-react-admin/static/js/main.77a89182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddee814f.css",
+    "static/js/main.77a89182.js"
+  ]
+}
